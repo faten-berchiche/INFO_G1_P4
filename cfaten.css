@@ -1,0 +1,44 @@
+.page { 
+    width: 780px;
+    
+ }
+ .partie-une {   grid-area: header;
+    
+    background-color: #fff8f8;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+ .photo { 
+    width: 10%
+ }
+ img { 
+  
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+ }
+ 
+ .container1 { 
+    background-color:rgb(250, 239, 241);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .container2 { 
+    background-color:rgb(248, 235, 237);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .container3 { 
+    background-color: rgb(244, 227, 230);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ 
+ 
+ span{
+    margin: 15px;
+ }

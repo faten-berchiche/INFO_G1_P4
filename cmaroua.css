@@ -1,0 +1,44 @@
+.page { 
+    width: 780px;
+    
+ }
+ .partie-une {   grid-area: header;
+    
+    background-color: #fdf8ff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+ .photo { 
+    width: 10%
+ }
+ img { 
+  
+    width: 180px;
+    height: 180px;
+    border-radius: 10%;
+ }
+ 
+ .container1 { 
+    background-color:#f1e4f5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .container2 { 
+    background-color: #f0daf0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ .container3 { 
+    background-color: #e3c9ea;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+ }
+ 
+ 
+ span{
+    margin: 15px;
+ }
